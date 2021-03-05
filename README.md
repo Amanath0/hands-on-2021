@@ -6,3 +6,6 @@ Hands-on project session 2021
 * project 1
 * project 2
 
+## Additionnal comments
+
+This is an additionnal comment
