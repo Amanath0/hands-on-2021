@@ -1,3 +1,6 @@
+#Data folder
+data/
+
 # Files with keys, passwords
 secrets.yaml
 secrets/
